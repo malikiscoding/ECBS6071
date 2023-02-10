@@ -1,4 +1,4 @@
-# Name of submitter: <ADD YOUR NAME HERE!>
+# Name of submitter: <Malik>
 library(dplyr)
 library(stringr)
 
